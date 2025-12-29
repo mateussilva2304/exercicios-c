@@ -1,10 +1,7 @@
 # exercicios-c
-## Exercício de Operações Aritméticas em C
+Criado para fins de estudo e prática da linguagem C.
 
-Código simples utilizado para praticar operações básicas:
-- soma
-- subtração
-- multiplicação
-- divisão
+## Exercícios no repositório
+- Operações Aritméticas
+- Par ou ímpar
 
-  Criado para fins de estudo e prática da linguagem C.
