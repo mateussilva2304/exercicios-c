@@ -7,4 +7,5 @@ Criado para fins de estudo e prática da linguagem C.
 - Calculadora de Adição com while
 - Calculadora de Adição com Do While
 - Soma Usando Funções
+- Maior número usando funções
 
